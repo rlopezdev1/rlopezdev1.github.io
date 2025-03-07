@@ -1,6 +1,8 @@
 # Hello, I'm Rodrigo Lopez
 <a href="https://linkedin.com/in/rodrigolopezpdx/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="https://medium.com/@rodrigoxhacks/"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 I am an IT professional with 10+ years of experience, now transitioning into cybersecurity with a strong interest in threat analysis and incident response.
 
 ## Objective
