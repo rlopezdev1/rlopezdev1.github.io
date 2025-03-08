@@ -68,5 +68,5 @@ My extensive IT experience has sparked a strong interest in cybersecurity, and I
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Active Directory Home Lab
+- Malware Analysis Lab
