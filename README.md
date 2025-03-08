@@ -18,8 +18,8 @@ My extensive IT experience has sparked a strong interest in cybersecurity, and I
 | Adversary Simulation with Atomic Red Team        | SOC Automation Lab|
 | Malware Analysis (Static and Dynamic techniques)     | SOC Automation Lab|
 | Virtual Machine Configuration and Network Isolation                 | SOC Automation Lab|
-| Web Application Developement with React, JavaScript, HTML and CSS| SOC Automation Lab|
-| API Development and Integration with Express | SOC Automation Lab |
+| Web Application Developement with React, JavaScript, HTML and CSS| <a href="https://rlopezdev1.github.io/Avatar-designer/">Avatar Designer</a>|
+| API Development and Integration  | <a href="https://rlopezdev1.github.io/image-search-gallery/">Image Search Gallery</a> |
 
 ## Tools
 
@@ -70,3 +70,5 @@ My extensive IT experience has sparked a strong interest in cybersecurity, and I
 ## Projects
 - Active Directory Home Lab
 - Malware Analysis Lab
+- Web Application Development
+- API Application Developement
